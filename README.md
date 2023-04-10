@@ -27,12 +27,14 @@ This project is specifically targetting the back end of a note taking app. While
 
 Here are some images to demonstrate the use of this application. 
 
-Screenshot 2023-04-10 170749.png
-Screenshot 2023-04-10 170938.png
-Screenshot 2023-04-10 171105.png
-Screenshot 2023-04-10 171113.png
-Screenshot 2023-04-10 171121.png
-Screenshot 2023-04-10 171200.png
+![Screenshot 2023-04-10 170749](https://user-images.githubusercontent.com/118483617/231009477-c6d49ec1-39ed-412e-ad8a-ea66b87461ae.png)
+![Screenshot 2023-04-10 170938](https://user-images.githubusercontent.com/118483617/231009484-082152be-e4ad-45a8-87b4-a9d64683e47f.png)
+![Screenshot 2023-04-10 171105](https://user-images.githubusercontent.com/118483617/231009490-e350a314-1680-4c5e-a8fa-cdb2b191032b.png)
+![Screenshot 2023-04-10 171113](https://user-images.githubusercontent.com/118483617/231009499-4ffa297b-6f29-46c3-98ee-40b4441b795d.png)
+![Screenshot 2023-04-10 171121](https://user-images.githubusercontent.com/118483617/231009552-9cbd3b34-a0e6-4f65-bfc5-18f9b6762cc4.png)
+![Screenshot 2023-04-10 171200](https://user-images.githubusercontent.com/118483617/231009562-04fa9d34-817a-48d6-8397-f4c23af79314.png)
+
+
     
 ## Installation
     
