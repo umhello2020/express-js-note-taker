@@ -26,6 +26,13 @@ This project is specifically targetting the back end of a note taking app. While
 ## Visuals
 
 Here is a demo video walking a user through the application.
+
+Screenshot 2023-04-10 170749.png
+Screenshot 2023-04-10 170938.png
+Screenshot 2023-04-10 171105.png
+Screenshot 2023-04-10 171113.png
+Screenshot 2023-04-10 171121.png
+Screenshot 2023-04-10 171200.png
     
 ## Installation
     
